@@ -2,3 +2,9 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+
+# The compiled application
+app.js
+
+# VS Code's docker container
+.devcontainer
